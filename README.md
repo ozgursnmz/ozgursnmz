@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently student at Antalya Bilim University<br>🤝 I’m looking for help with Game Development<br>🌱 I’m currently learning Java<br>
 
 
