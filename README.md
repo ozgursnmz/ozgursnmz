@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently student at Antalya Bilim University<br>🤝 I’m looking for help with Game Development<br>🌱 I’m currently learning Java<br>
+🔭 I’m currently student at Antalya Bilim University<br><br>🌱 I’m currently learning Java<br>
 
 
 ## 🌐 Socials:
