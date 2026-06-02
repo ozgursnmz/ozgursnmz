@@ -6,11 +6,11 @@
 
 - 🌱 I'm currently learning **Unity, Game Development**
 
-- 📫 How to reach me **ozgur_sonmez@hotmail.com.tr**
+- 📫 How to reach me **ozgur_sonmez@hotmail.com.tr
 
 - ⚡ Fun fact **A Spider-Man Fan**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/16dszML7sm4tHnypftm3k8QHeAxW9aXCb/edit](https://docs.google.com/document/d/16dszML7sm4tHnypftm3k8QHeAxW9aXCb/edit)**
+- 📄 Know about my experiences **https://docs.google.com/document/d/1Z_jh4PHlPX0S6XGsavrjOWHAReJe12_N/edit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
