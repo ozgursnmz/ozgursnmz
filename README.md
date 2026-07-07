@@ -1,10 +1,8 @@
 # Hi 👋, I'm Özgür Sönmez
 
-### A passionate Game Developer
+### A passionate Developer Interested in Simulations, Game Development
 
-- 🔭 I'm currently working on **Elemental Stack, ChickWick**
-
-- 🌱 I'm currently learning **Unity, Game Development**
+- 🔭 I'm currently working on **A training dataset for a UAV- UGV system **
 
 - 📫 How to reach me **ozgur_sonmez@hotmail.com.tr
 
